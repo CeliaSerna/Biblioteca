@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biblioteca>
+    <libros id="1">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <genero>Novela, Parodia</genero>
+        <publicacion>16/01/1605</publicacion>
+        <paginas>1305</paginas>
+    </libros>
+</biblioteca>

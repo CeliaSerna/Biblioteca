@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxb:bindings version="3.0" xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v3.0.0 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2023.05.09 a las 11:44:29 AM CEST 
+
+  -->
+  <jaxb:bindings scd="x-schema::">
+    <jaxb:schemaBindings map="false">
+      <jaxb:package name="com.cursoceat.xml.schema"/>
+    </jaxb:schemaBindings>
+    <jaxb:bindings scd="biblioteca">
+      <jaxb:class ref="com.cursoceat.xml.schema.Biblioteca"/>
+    </jaxb:bindings>
+  </jaxb:bindings>
+</jaxb:bindings>
+
